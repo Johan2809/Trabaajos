@@ -1,0 +1,5 @@
+package banco.exceptions;
+
+public class CuentaExceptions {
+
+}
